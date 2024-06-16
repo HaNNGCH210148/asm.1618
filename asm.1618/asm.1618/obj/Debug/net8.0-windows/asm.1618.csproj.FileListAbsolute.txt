@@ -1,0 +1,17 @@
+D:\1618\asm.1618\asm.1618\bin\Debug\net8.0-windows\asm.1618.exe
+D:\1618\asm.1618\asm.1618\bin\Debug\net8.0-windows\asm.1618.deps.json
+D:\1618\asm.1618\asm.1618\bin\Debug\net8.0-windows\asm.1618.runtimeconfig.json
+D:\1618\asm.1618\asm.1618\bin\Debug\net8.0-windows\asm.1618.dll
+D:\1618\asm.1618\asm.1618\bin\Debug\net8.0-windows\asm.1618.pdb
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm._1618.Form1.resources
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm._1618.Form2.resources
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.csproj.GenerateResource.cache
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.GeneratedMSBuildEditorConfig.editorconfig
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.AssemblyInfoInputs.cache
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.AssemblyInfo.cs
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.csproj.CoreCompileInputs.cache
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.dll
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\refint\asm.1618.dll
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.pdb
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\asm.1618.genruntimeconfig.cache
+D:\1618\asm.1618\asm.1618\obj\Debug\net8.0-windows\ref\asm.1618.dll
